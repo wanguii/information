@@ -12,4 +12,4 @@ Africa Digital Media Institute  independent project. Having lots of students fil
 
 
 # Link to deployed website
-https://ndongar.github.io/ping-pong/
+https://wanguii.github.io/information/
