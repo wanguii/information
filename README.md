@@ -11,5 +11,3 @@ Africa Digital Media Institute  independent project. Having lots of students fil
 2. Collection of data into a database.
 
 
-# Link to deployed website
-https://wanguii.github.io/information/
